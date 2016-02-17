@@ -3,7 +3,7 @@ mshadow-ps
 ### Parameter Server Interface for GPU Tensor
 
 mshadow-ps provides asynchronize parameter server interface for mshadow GPU/CPU Tensor.
-This allows you to do ***multi-GPU*** and ***disrtibuted*** (deep) learning in
+This allows you to do ***multi-GPU*** and ***distributed*** (deep) learning in
 an ***easy*** and ***unified*** way.
 
 mshadow-ps implemented a two-level parameter server. The architecture is shown
