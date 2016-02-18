@@ -456,7 +456,7 @@ inline size_t mshadow_sizeof(int type) {
  *  but it can be converted to tensor of fixed dimension for further operations
  *
  *  Like tensor, this data structure is like a pointer class and do not
- *  implicit allocated, de-allocate space.
+ *  implicit allocate, de-allocate space.
  *  This data structure can be helpful to hold tensors of different dimensions
  *  and wait for further processing
  */
